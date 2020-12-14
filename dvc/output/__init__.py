@@ -97,6 +97,7 @@ def _get(
             plot=plot,
             persist=persist,
             checkpoint=checkpoint,
+            dvclive=dvclive,
             desc=desc,
         )
 
